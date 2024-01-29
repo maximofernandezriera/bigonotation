@@ -53,4 +53,4 @@ Los ejemplos típicos de O(n^2) incluyen bucles anidados y ciertos algoritmos de
             return false;
         }
 
-
+## El tercer ejemplo, nos va genial para adentrarnos en el campo de los algoritmos de ordenación, en concreto el método de la burbuja.
