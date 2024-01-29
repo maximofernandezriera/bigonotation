@@ -1,5 +1,7 @@
 # Big O notation o complejidad algoritmica
 
+### “Programa siempre tu código como si el tipo que va a tener que mantenerlo en el futuro fuera un violento psicópata que sabe dónde vives”. Martin Goldin
+
 - Cuando hablamos de rendimiento y optimización, es importante tener un modo de determinar qué tan bueno o eficiente es un algoritmo en algunos casos y qué tan malo puede ser para otros. Para esto existe Big O notation.
 
 - Big O notation nos permite dar una nomenclatura o simbología matemática a la complejidad de los algoritmos.
