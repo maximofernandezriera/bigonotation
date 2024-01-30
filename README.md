@@ -57,7 +57,7 @@ Los ejemplos típicos de O(n^2) incluyen bucles anidados y ciertos algoritmos de
 
 ## El tercer ejemplo, nos va genial para adentrarnos en el campo de los algoritmos de ordenación, en concreto el método de la burbuja.
 
-3. La notación O(log n) se refiere a algoritmos donde el tiempo de ejecución aumenta logarítmicamente con el tamaño de la entrada, haciéndolos eficientes para grandes cantidades de datos.
+### 3. La notación O(log n) se refiere a algoritmos donde el tiempo de ejecución aumenta logarítmicamente con el tamaño de la entrada, haciéndolos eficientes para grandes cantidades de datos.
 
 Indica que el tiempo aumenta linealmente, mientras que n sube exponencialmente. Entonces, si se tarda 1 segundo en calcular 10 elementos, se necesitarán 2 para 100, 3 para 1000 y así sucesivamente. Un ejemplo de ello es la búsqueda binaria.
 
