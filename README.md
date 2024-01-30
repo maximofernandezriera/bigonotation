@@ -61,6 +61,8 @@ Los ejemplos típicos de O(n^2) incluyen bucles anidados y ciertos algoritmos de
 
 Indica que el tiempo aumenta linealmente, mientras que n sube exponencialmente. Entonces, si se tarda 1 segundo en calcular 10 elementos, se necesitarán 2 para 100, 3 para 1000 y así sucesivamente. Un ejemplo de ello es la búsqueda binaria.
 
+- https://es.wikipedia.org/wiki/B%C3%BAsqueda_binaria
+
 ## Quiero acabar recomendando este libro: https://github.com/cjbt/Free-Algorithm-Books/blob/master/book/Grokking%20Algorithms%20-%20An%20illustrated%20guide%20for%20programmers%20and%20other%20curious%20people.pdf 
 
 #### Incluso las empresas de blockchain lo tienen en su cabecera.
